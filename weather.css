@@ -1,0 +1,50 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background-image: url(cloud.jpg);
+    height: 100%;
+    width : 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card
+{
+    height: 600px;
+    width: 500px;
+    background-color: rgba(157,234,251,0.3);
+    margin: 100px auto 0;
+    border-radius: 20px;
+    padding: 40px 35px;
+    text-align: center;
+    box-shadow: 10px 10px 10px black;
+    margin-top: 30px;
+
+
+}
+.search input
+{
+   margin-left: 650px;
+   margin-top: 25px;
+   height: 30px;
+   width: 200px;
+   border-radius: 5px;
+}
+.search button
+{
+   
+     height: 30px;
+     width: 60px;
+     padding: 5px;
+     border-radius: 5px;
+}
+.date
+{
+    margin-left: 670;
+    margin-top: 20px;
+}
+
